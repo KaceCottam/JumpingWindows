@@ -1,0 +1,7 @@
+# Autoenv configuration for running cmake
+/.env
+
+/build/
+/.vscode/
+/.cache/
+/imgui.ini
